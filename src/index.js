@@ -36,7 +36,7 @@ server.start(() => console.log(`Server is running on localhost:4000`))
 
 //context: Il s'agit d'un objet qui est transmis à travers la chaîne de résolveurs et chaque résolveur peut lire ou écrire dans.
 
-// # Query for all users
+// # Query (requête) for all users
 // query {
 //   users {
 //     id --- ici on interroge id & name, possible d'en omettre 1 des 2
